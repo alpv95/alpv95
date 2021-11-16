@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am Lawrence, a PhD student in Physics at Stanford University.
-![image]({https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white})
-[![Linkedin Badge](https://img.shields.io/badge/-abellawrencepeirson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abel-lawrence-peirson-v-b96aba94/)](https://www.linkedin.com/in/abel-lawrence-peirson-v-b96aba94/)
+<a href="https://www.linkedin.com/in/abel-lawrence-peirson-v-b96aba94/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 [![Gmail Badge](https://img.shields.io/badge/-59vpla@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:59vpla@gmail.com)](mailto:59vpla@gmail.com)
 
 ## ⚡ Technologies
