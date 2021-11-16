@@ -1,9 +1,16 @@
 ### Hi there 👋
-I am Lawrence, a PhD student in Physics at Stanford University.
+I am Lawrence, a PhD student in Physics at Stanford University. I research high energy astrophysics, astrostatistics and applications of machine learning as a NASA FINESST fellow and Stanford data science scholar. I am interested in open and reproducible science. 
+
 <a href="https://www.linkedin.com/in/abel-lawrence-peirson-v-b96aba94/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-[![Gmail Badge](https://img.shields.io/badge/-59vpla@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:59vpla@gmail.com)](mailto:59vpla@gmail.com)
+<a href="https://twitter.com/alpv95">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<a href="https://www.alpeirson.com">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+<a href="mailto:alpv95@stanford.edu">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
+    
 ## ⚡ Technologies
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -12,8 +19,6 @@ I am Lawrence, a PhD student in Physics at Stanford University.
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
